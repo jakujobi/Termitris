@@ -12,10 +12,12 @@ int main() {
     game.start();
 
     while (!game.isGameOver()) {
+
         if (_kbhit()) {
             char key = _getch();
             game.handleInput(key);
         }
+
         game.update();
         game.render();
         // Sleep to control the speed of the game loop
@@ -23,5 +25,6 @@ int main() {
     }
 
     std::cout << "Game Over! Your score: " << game.getScore() << std::endl;
+
     return 0;
 }

@@ -1,2 +1,7 @@
-﻿  Termitris_VS.cpp
+﻿  Game.cpp
+C:\Users\akujo_2rtofyy\Documents\GITHUB PROJECTS\Termitris\Termitris_VS\Game.cpp(12,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\akujo_2rtofyy\Documents\GITHUB PROJECTS\Termitris\Termitris_VS\Game.cpp(49,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\akujo_2rtofyy\Documents\GITHUB PROJECTS\Termitris\Termitris_VS\Game.cpp(50,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Termitris_VS.cpp
+  Generating Code...
   Termitris_VS.vcxproj -> C:\Users\akujo_2rtofyy\Documents\GITHUB PROJECTS\Termitris\Termitris_VS\x64\Debug\Termitris_VS.exe
